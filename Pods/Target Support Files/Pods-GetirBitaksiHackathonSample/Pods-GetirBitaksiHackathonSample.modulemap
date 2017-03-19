@@ -1,0 +1,6 @@
+framework module Pods_GetirBitaksiHackathonSample {
+  umbrella header "Pods-GetirBitaksiHackathonSample-umbrella.h"
+
+  export *
+  module * { export * }
+}
